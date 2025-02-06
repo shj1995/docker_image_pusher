@@ -1,6 +1,6 @@
 mysql:8.0
-
-
+tailscale/tailscale
+redis
 
 
 #nginx
