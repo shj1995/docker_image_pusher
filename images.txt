@@ -2,6 +2,7 @@ mysql:8.0
 tailscale/tailscale
 redis
 nginx
+jellyfin/jellyfin
 
 
 #支持私库
