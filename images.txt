@@ -4,6 +4,16 @@ redis
 nginx
 jellyfin/jellyfin
 
+# fastpgt
+pgvector/pgvector:0.7.0-pg15
+mongo:5.0.18
+ghcr.io/labring/fastgpt-sandbox:v4.8.21-fix
+ghcr.io/labring/fastgpt:v4.8.21-fix
+mysql:8.0.36
+
+# searxng
+docker.io/valkey/valkey:8-alpine
+docker.io/searxng/searxng:latest
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
