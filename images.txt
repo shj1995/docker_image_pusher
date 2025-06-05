@@ -4,7 +4,8 @@
 #nginx
 #jellyfin/jellyfin
 
-redis:7.2-alpine
+caddy:2.10.0-builder
+#redis:7.2-alpine
 # fastpgt
 #pgvector/pgvector:0.7.0-pg15
 #mongo:5.0.18
