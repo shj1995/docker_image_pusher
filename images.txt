@@ -4,7 +4,8 @@
 #nginx
 #jellyfin/jellyfin
 
-caddy:2.10.0-builder
+rabbitmq:3.9.26
+#caddy:2.10.0-builder
 #redis:7.2-alpine
 # fastpgt
 #pgvector/pgvector:0.7.0-pg15
