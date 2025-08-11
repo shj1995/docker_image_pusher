@@ -4,7 +4,8 @@
 #nginx
 #jellyfin/jellyfin
 
-docker.io/openjdk:8
+getmeili/meilisearch:v1.16
+#docker.io/openjdk:8
 #nyanmisaka/jellyfin:latest
 #rabbitmq:3.9.26
 #caddy:2.10.0-builder
