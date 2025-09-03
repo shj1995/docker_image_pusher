@@ -21,7 +21,7 @@
 #docker.io/valkey/valkey:8-alpine
 #docker.io/searxng/searxng:latest
 
-metabase/metabase:v0.53.18.x
+metabase/metabase:v0.54.19.x
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
