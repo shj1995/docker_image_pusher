@@ -4,7 +4,7 @@
 #nginx
 #jellyfin/jellyfin
 
-getmeili/meilisearch:v1.16
+# getmeili/meilisearch:v1.16
 #docker.io/openjdk:8
 #nyanmisaka/jellyfin:latest
 #rabbitmq:3.9.26
@@ -21,7 +21,7 @@ getmeili/meilisearch:v1.16
 #docker.io/valkey/valkey:8-alpine
 #docker.io/searxng/searxng:latest
 
-# metabase/metabase:v0.53.6.x
+metabase/metabase:v0.53.6.x
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
